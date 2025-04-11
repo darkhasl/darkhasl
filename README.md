@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhasl&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhasl&show_icons=true&theme=default)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=darkhasl&theme=dark)](https://git.io/streak-stats)
 <!--
